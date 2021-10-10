@@ -1,3 +1,6 @@
+
+# usage: python3 process_csv.py mouse_data.csv
+
 import sys
 from csv import DictReader
 from tabulate import tabulate
