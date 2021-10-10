@@ -1,0 +1,47 @@
+{
+    "category" : "electronics", "subcategories" : [
+	{
+	    "category" : "laptops_and_PCs", "subcategories" : [
+		{
+		    "category" : "laptops", "subcategories" : []
+		},
+		{
+		    "category" : "PCs", "subcategories" : []
+		}
+	    ]
+	},
+	{
+	    "category" : "cameras_and_photo", "subcategories" : [
+		{
+		    "category" : "cameras", "subcategories" : []
+		}
+	    ]
+	},
+	{
+	    "category" : "phones_and_accessories", "subcategories" : [
+		{
+		    "category" : "smartphones", "subcategories" : [
+			{
+			    "category" : "android", "subcategories" : []
+			},
+			{
+			    "category" : "iOS", "subcategories" : []
+			},
+			{
+			    "category" : "other_smartphones", "subcategories" : []
+			}
+		    ]
+		},
+		{
+		    "category" : "batteries", "subcategories" : []
+		},
+		{
+		    "category" : "headsets", "subcategories" : []
+		},
+		{
+		    "category" : "screen_protectors", "subcategories" : []
+		}
+	    ]
+	}
+    ]
+}

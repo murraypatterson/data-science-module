@@ -1,0 +1,20 @@
+sample,weight,size,lab,lot,color
+1,2,3,Jackson,76b,white
+2,4,5,Jackson,55a,white
+3,6,4,Charles R.,46c,grey
+4,5,6,Janvier,34b,brown
+5,8,7,Jackson,45d,grey
+6,11,8,Janvier,34b,white
+7,13,9.5,Tactonic,45a,black
+8,14,9,NCI,10c,black
+9,15,9.8,Charles R.,46c,grey
+10,14.5,10.2,JMSR,12a,brown
+11,15.5,10,Jackson,55a,white
+12,17,10.5,Harlan,21d,black
+13,16,11,NCI,33c,brown
+14,19,12,Janvier,34b,brown
+15,22,13,Jackson,76b,black
+16,25,14,Harlan,21d,brown
+17,24,16,Tactonic,45a,grey
+18,26,15,Charles R.,46c,white
+19,27,17,Janvier,56c,black
