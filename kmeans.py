@@ -42,8 +42,9 @@ for i in range(len(labels)) :
     ys[labels[i]].append(sizes[i])
 
 # plot each cluster with a different color
+plt.plot(weights, sizes, 'ko')
+plt.draw()
 plt.plot(xs[0], ys[0], 'ro')
 plt.plot(xs[1], ys[1], 'go')
 plt.plot(xs[2], ys[2], 'bo')
-plt.draw()
 plt.show()
